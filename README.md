@@ -5,7 +5,7 @@
 ## Thành viên nhóm
 1. [Lê Tuấn Dũng] - MSSV: [24211TT4229]
 2. [Nguyễn Tuấn Anh] - MSSV: [24211TT3636]
-3. [Họ tên thành viên 2] - MSSV: [...]
+3. [Nguyễn Quốc Anh Hòa] - MSSV: [24211TT0714]
 
 ## Hướng dẫn cài đặt và chạy ứng dụng
 
